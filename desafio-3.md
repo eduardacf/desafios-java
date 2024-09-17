@@ -1,7 +1,5 @@
 ## Sistema de Gerenciamento de Restaurante
 
----
-
 **O DESAFIO** 
 
 Você foi contratado para desenvolver um sistema de gerenciamento de restaurante. Sua missão será construir a lógica para gerenciar mesas, pedidos e clientes.
