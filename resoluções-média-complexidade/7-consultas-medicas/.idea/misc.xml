@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="- Escreva em português e na primeira pessoa do plural do futuro do subjuntivo.&#10;&#10;Use o padrão de commits semânticos&#10;conforme o exemplo abaixo:&#10;&#10;tipo:descrição&#10;corpo&#10;rodapé&#10;&#10;Tipos de commit:&#10;- feat: Sempre que estiver adicionando novas funcionalidades no projeto.&#10;- fix: Sempre que estiver adicionando correções no projeto.&#10;- docs: Sempre que estiver adicionando documentação ao projeto.&#10;- ci: Sempre que estiver adicionando integração contínua (pipeline) ao projeto.&#10;- refactor: Sempre que estiver realizando refatoração ao projeto.&#10;&#10;Descrição:&#10;- Adicione uma frase curta, de no máximo 100 caracteres.&#10;- Escreva apenas uma frase para a descrição.&#10;- Evite descrições excessivamente detalhadas ou detalhes desnecessários.&#10;- No final da frase, adicione dois emojis relacionados.&#10;- Deixe uma linha em branco&#10;&#10;Corpo:&#10;- Detalhe o corpo em tópicos breves.&#10;- Deixe uma linha em branco&#10;&#10;Rodapé:&#10;- Um emoji de check" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="CheckStyle-IDEA" serialisationVersion="2">
+    <checkstyleVersion>10.14.2</checkstyleVersion>
+    <scanScope>JavaOnly</scanScope>
+    <copyLibs>true</copyLibs>
+    <option name="thirdPartyClasspath" />
+    <option name="activeLocationIds" />
+    <option name="locations">
+      <list>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
