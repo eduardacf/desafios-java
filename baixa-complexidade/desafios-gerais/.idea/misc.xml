@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AIAssistantCustomInstructionsStorage">
+    <option name="instructions">
+      <map>
+        <entry key="AIAssistant.VCS.GenerateCommitMessage">
+          <value>
+            <AIAssistantStoredInstruction>
+              <option name="actionId" value="AIAssistant.VCS.GenerateCommitMessage" />
+              <option name="content" value="Por favor, gere uma mensagem de commit clara e concisa para as seguintes alterações no código, utilizando o padrão de commits semânticos:&#10;&#10;Tipos de commit:&#10;- feat: Sempre que estivermos adicionando novas funcionalidades no projeto.&#10;- fix: Sempre que estivermos adicionando correções no projeto.&#10;- docs: Sempre que estivermos adicionando documentação ao projeto.&#10;- ci: Sempre que estivermos adicionando integração contínua (pipeline) ao projeto.&#10;- refactor: Sempre que estivermos realizando refatoração ao projeto.&#10;&#10;A mensagem de commit deve seguir a estrutura abaixo e ser escrita em português e na primeira pessoa do plural do futuro do subjuntivo:&#10;&#10;tipo:descrição&#10;corpo&#10;rodapé&#10;&#10;Descrição:&#10;- Adicione uma frase curta, de no máximo 100 caracteres.&#10;- Escreva apenas uma frase para a descrição.&#10;- Evite descrições excessivamente detalhadas ou detalhes desnecessários.&#10;- No final da frase, adicione dois emojis relacionados.&#10;- Deixe uma linha em branco&#10;&#10;Corpo:&#10;- Detalhe o corpo em tópicos breves.&#10;- Deixe uma linha em branco&#10;&#10;Rodapé:&#10;- Um emoji de check&#10;&#10;Exemplo de mensagem de commit:&#10;&#10;feat: Implementarmos nova funcionalidade de login ✨&#10;&#10;- Adicionarmos validação de campos&#10;- Integrarmos com API de autenticação&#10;- Criarmos testes unitários&#10;&#10;✅" />
+            </AIAssistantStoredInstruction>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="MongoDBSettings">
+    <option name="configs">
+      <map>
+        <entry key="TIME_ZONE_KEY" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

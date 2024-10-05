@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-alunos/1-alunos.iml" filepath="$PROJECT_DIR$/1-alunos/1-alunos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-biblioteca/2-biblioteca.iml" filepath="$PROJECT_DIR$/2-biblioteca/2-biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-escritorio/3-escritorio.iml" filepath="$PROJECT_DIR$/3-escritorio/3-escritorio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4-biblioteca/4-biblioteca.iml" filepath="$PROJECT_DIR$/4-biblioteca/4-biblioteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafios-gerais.iml" filepath="$PROJECT_DIR$/.idea/desafios-gerais.iml" />
+    </modules>
+  </component>
+</project>
