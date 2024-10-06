@@ -1,6 +1,6 @@
 # Desafios Java para Iniciantes
 
-Bem-vindo ao repositório **Desafios Java**! Este repositório contém uma série de desafios de programação em Java, focados em lógica de negócios e manipulação de dados, sem o uso de frameworks ou integração com banco de dados.
+Bem-vindo ao repositório sobre **Desafios Java**! Este repositório contém uma série de desafios de programação em Java, focados em lógica de negócios e manipulação de dados, sem o uso de frameworks ou integração com banco de dados.
 
 ## Objetivo
 
@@ -10,11 +10,11 @@ O objetivo deste repositório é ajudar iniciantes a praticar e aprimorar suas h
 
 1. Clone este repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/eduardacf/desafios-java.git
+    git clone https://github.com/eduardacf/java-programming-exercises.git
     ```
 2. Navegue até o diretório do repositório:
     ```bash
-    cd desafios-java
+    cd java-programming-exercises
     ```
 3. Leia as instruções de cada desafio no respectivo arquivo `.md`.
 4. Implemente sua solução em um arquivo `.java` separado.
